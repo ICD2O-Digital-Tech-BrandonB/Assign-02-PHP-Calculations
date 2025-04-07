@@ -54,12 +54,12 @@
 
 			<!-- iframe for the results to show on the web page. -->
 			<iframe id="euro" name="results">			
-				You have " + $euro + $ + African Rand<sup>2</sup>
+				You have " + $euro + $ + African Rand
 	    </iframe>
 
       <!-- iframe for the results to show on the web page. -->
 			<iframe id="rand" name="results">			
-				You have " + $rand + $ + Euros<sup>2</sup>
+				You have " + $rand + $ + Euros
 	    </iframe>
 
       <!--This allows us tok display an image in php. -->
